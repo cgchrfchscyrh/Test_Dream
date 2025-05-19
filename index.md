@@ -38,42 +38,42 @@
   <h2 style="color:#1877f2; font-size:2.5rem;">Fields of Interest</h2>
   <div style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: flex-start;">
     <div style="width: 285px; background:#fff; border-radius:20px; box-shadow:0 4px 18px rgba(0,0,0,0.1);">
-      <img src="/images/acc.jpg" alt="Reinforcement Learning" style="width:100%; border-radius:20px 20px 0 0;">
+      <img src="/Test_Dream/images/acc.jpg" alt="Reinforcement Learning" style="width:100%; border-radius:20px 20px 0 0;">
       <div style="padding:1rem;">
         <h3 style="color:#1877f2;">Reinforcement Learning</h3>
         <p>Autonomous decision-making and robotics.</p>
       </div>
     </div>
     <div style="width: 285px; background:#fff; border-radius:20px; box-shadow:0 4px 18px rgba(0,0,0,0.1);">
-      <img src="/images/acc.jpg" alt="Generative Models" style="width:100%; border-radius:20px 20px 0 0;">
+      <img src="/Test_Dream/images/acc.jpg" alt="Generative Models" style="width:100%; border-radius:20px 20px 0 0;">
       <div style="padding:1rem;">
         <h3 style="color:#1877f2;">Generative Models</h3>
         <p>Exploring GANs, diffusion models, and autoencoders for content generation.</p>
       </div>
     </div>
     <div style="width: 285px; background:#fff; border-radius:20px; box-shadow:0 4px 18px rgba(0,0,0,0.1);">
-      <img src="/images/acc.jpg" alt="3" style="width:100%; border-radius:20px 20px 0 0;">
+      <img src="/Test_Dream/images/acc.jpg" alt="3" style="width:100%; border-radius:20px 20px 0 0;">
       <div style="padding:1rem;">
         <h3 style="color:#1877f2;">3</h3>
         <p>Exploring GANs, diffusion models, and autoencoders for content generation.</p>
       </div>
     </div>
     <div style="width: 285px; background:#fff; border-radius:20px; box-shadow:0 4px 18px rgba(0,0,0,0.1);">
-      <img src="/images/acc.jpg" alt="4" style="width:100%; border-radius:20px 20px 0 0;">
+      <img src="/Test_Dream/images/acc.jpg" alt="4" style="width:100%; border-radius:20px 20px 0 0;">
       <div style="padding:1rem;">
         <h3 style="color:#1877f2;">4</h3>
         <p>Exploring GANs, diffusion models, and autoencoders for content generation.</p>
       </div>
     </div>
     <div style="width: 285px; background:#fff; border-radius:20px; box-shadow:0 4px 18px rgba(0,0,0,0.1);">
-      <img src="/images/acc.jpg" alt="5" style="width:100%; border-radius:20px 20px 0 0;">
+      <img src="/Test_Dream/images/acc.jpg" alt="5" style="width:100%; border-radius:20px 20px 0 0;">
       <div style="padding:1rem;">
         <h3 style="color:#1877f2;">5</h3>
         <p>Exploring GANs, diffusion models, and autoencoders for content generation.</p>
       </div>
     </div>
     <div style="width: 285px; background:#fff; border-radius:20px; box-shadow:0 4px 18px rgba(0,0,0,0.1);">
-      <img src="/images/acc.jpg" alt="6" style="width:100%; border-radius:20px 20px 0 0;">
+      <img src="/Test_Dream/images/acc.jpg" alt="6" style="width:100%; border-radius:20px 20px 0 0;">
       <div style="padding:1rem;">
         <h3 style="color:#1877f2;">6</h3>
         <p>Exploring GANs, diffusion models, and autoencoders for content generation.</p>
@@ -93,7 +93,7 @@
       <span style="font-size:1rem;">YouTube</span>
     </div>
     <div style="text-align: center;">
-      <img src="/images/QR_code.png" alt="UF Site" style="width:120px; border-radius:12px;"><br>
+      <img src="/Test_Dream/images/QR_code.png" alt="UF Site" style="width:120px; border-radius:12px;"><br>
       <span style="font-size:1rem;">UF Site</span>
     </div>
   </div>
