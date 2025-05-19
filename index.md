@@ -2,6 +2,20 @@
 # header: images/background_greenlight.png
 ---
 <main class="container mt-5">
+  <div style="font-size:1.7rem; line-height:2.4rem; font-family:Georgia, 'Times New Roman', serif;">
+  We conduct use-inspired research to advance the 
+  <strong>D</strong>igital-Twin and 
+  <strong>R</strong>obot 
+  <strong>E</strong>cosystem with 
+  <strong>A</strong>I for 
+  <strong>M</strong>anufacturing, 
+  <strong>M</strong>obility, and 
+  <strong>M</strong>anagement at 
+  <strong>
+    D</strong><strong>R</strong><strong>E</strong><strong>A</strong><strong>M</strong><sup style="font-weight: bold;">3</sup><strong> Lab
+  </strong>. We develop innovative systems, algorithms, and datasets that enable intelligent agents to perceive, reason, and act across cyber and physical spaces, while interacting with and adapting to humans in both normal and extreme environments on Earth and beyond.
+  </div>
+
   <!-- <section id="summary" class="mb-5">
       <h2 class="text-primary text-center">About DREAM3 Lab</h2>
       <p class="lead text-center">DREAM3 Lab is a ...<br><br></p>
