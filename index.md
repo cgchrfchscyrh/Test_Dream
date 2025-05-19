@@ -82,6 +82,19 @@
   </div>
 </section>
 
-![UF Website QR](/images/QR_code.png)
-
+<h2>Contact</h2>
+  <div style="display: flex; gap: 2em; margin-bottom: 2em;">
+    <div style="text-align: center;">
+      <img src="/images/linkedin_qr.png" alt="LinkedIn" style="width:120px; border-radius:12px;"><br>
+      <span style="font-size:1rem;">LinkedIn</span>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/youtube_qr.png" alt="YouTube" style="width:120px; border-radius:12px;"><br>
+      <span style="font-size:1rem;">YouTube</span>
+    </div>
+    <div style="text-align: center;">
+      <img src="/images/QR_code.png" alt="UF Site" style="width:120px; border-radius:12px;"><br>
+      <span style="font-size:1rem;">UF Site</span>
+    </div>
+  </div>
 </main>
