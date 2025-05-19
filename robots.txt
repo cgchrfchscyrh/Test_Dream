@@ -1,1 +1,1 @@
-Sitemap: https://cgchrfchscyrh.github.io/Test_Dream/sitemap.xml
+Sitemap: /Test_Dream/sitemap.xml
