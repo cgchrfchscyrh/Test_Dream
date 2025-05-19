@@ -2,7 +2,7 @@
 # header: images/background_greenlight.png
 ---
 <main class="container mt-5">
-  <section id="summary" class="mb-5">
+  <!-- <section id="summary" class="mb-5">
       <h2 class="text-primary text-center">About DREAM3 Lab</h2>
       <p class="lead text-center">DREAM3 Lab is a ...<br><br></p>
       <div class="row text-center">
@@ -19,7 +19,7 @@
               <p>TBD</p>
           </div>
       </div>
-  </section>
+  </section> -->
 
 <section style="max-width:1400px; margin: 0 auto;">
   <h2 style="color:#1877f2; font-size:2.5rem;">Fields of Interest</h2>
