@@ -11,72 +11,67 @@ We conduct research on ...
 
 {% include section.html %}
 
-{% capture text %}
-TBD
+<!-- ======= 这里是自定义 feature 区块（Mobility）======= -->
 
-<!-- {%
-  include button.html
-  link="research"
-  text="Publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
+<div style="display: flex; gap: 2.5rem; align-items: flex-start; max-width: 1200px; margin: 2rem auto 3rem auto;">
+  <!-- 左侧图片 -->
+  <img src="../images/acc.jpg" alt="Mobility" style="width: 340px; height: auto; border-radius: 15px; box-shadow:0 4px 18px rgba(0,0,0,0.11); object-fit:cover;">
 
-{% endcapture %}
+  <!-- 右侧内容区 -->
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: flex-start; min-width: 280px;">
+    <h2 style="font-size: 2rem; font-weight:600; margin-bottom: 1rem;">Mobility</h2>
+    <div style="margin-bottom:1.5rem; color:#222; font-size:1.1rem;">TBD</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.7rem;">
+      <span style="background: #1877f2; color: #fff; font-size: 1.15rem; border-radius: 10px; padding: 0.35em 1.1em; display: inline-block; font-family: inherit; font-weight: 400; cursor: pointer; margin-bottom: 0.4rem; transition: background 0.2s;">
+        Computer Vision
+      </span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Deep Learning</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">NLP</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">VLMs</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Video Models</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Read More</span>
+    </div>
+  </div>
+</div>
 
-{%
-  include feature.html
-  image="images/acc.jpg"
-  link="research"
-  title="TBD"
-  text=text
-%}
+<div style="display: flex; gap: 2.5rem; align-items: flex-start; max-width: 1200px; margin: 2rem auto 3rem auto;">
+  <!-- 左侧图片 -->
+  <img src="../images/acc.jpg" alt="Construction" style="width: 340px; height: auto; border-radius: 15px; box-shadow:0 4px 18px rgba(0,0,0,0.11); object-fit:cover;">
 
-{% capture text %}
+  <!-- 右侧内容区 -->
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: flex-start; min-width: 280px;">
+    <h2 style="font-size: 2rem; font-weight:600; margin-bottom: 1rem;">Construction</h2>
+    <div style="margin-bottom:1.5rem; color:#222; font-size:1.1rem;">TBD</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.7rem;">
+      <span style="background: #1877f2; color: #fff; font-size: 1.15rem; border-radius: 10px; padding: 0.35em 1.1em; display: inline-block; font-family: inherit; font-weight: 400; cursor: pointer; margin-bottom: 0.4rem; transition: background 0.2s;">
+        Computer Vision
+      </span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Deep Learning</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">NLP</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">VLMs</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Video Models</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Read More</span>
+    </div>
+  </div>
+</div>
 
-TBD
+<div style="display: flex; gap: 2.5rem; align-items: flex-start; max-width: 1200px; margin: 2rem auto 3rem auto;">
+  <!-- 左侧图片 -->
+  <img src="../images/acc.jpg" alt="Management" style="width: 340px; height: auto; border-radius: 15px; box-shadow:0 4px 18px rgba(0,0,0,0.11); object-fit:cover;">
 
-<!-- {%
-  include button.html
-  link="projects"
-  text="Publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/distr.jpg"
-  link="projects"
-  title="TBD"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-TBD
-
-<!-- {%
-  include button.html
-  link="team"
-  text="Publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%} -->
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/dfc.png"
-  link="team"
-  title="TBD"
-  text=text
-%}
+  <!-- 右侧内容区 -->
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: flex-start; min-width: 280px;">
+    <h2 style="font-size: 2rem; font-weight:600; margin-bottom: 1rem;">Management</h2>
+    <div style="margin-bottom:1.5rem; color:#222; font-size:1.1rem;">TBD</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.7rem;">
+      <span style="background: #1877f2; color: #fff; font-size: 1.15rem; border-radius: 10px; padding: 0.35em 1.1em; display: inline-block; font-family: inherit; font-weight: 400; cursor: pointer; margin-bottom: 0.4rem; transition: background 0.2s;">
+        Computer Vision
+      </span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Deep Learning</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">NLP</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">VLMs</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Video Models</span>
+      <span style="background:#1877f2;color:#fff;font-size:1.15rem;border-radius:10px;padding:0.35em 1.1em;display:inline-block;font-family:inherit;font-weight:400;cursor:pointer;margin-bottom:0.4rem;transition:background 0.2s;">Read More</span>
+    </div>
+  </div>
+</div>

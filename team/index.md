@@ -23,7 +23,7 @@ Email: shuai.li@essie.ufl.edu
 
 {%
   include feature.html
-  image="images_profile/jinho1.jpg"
+  image="images_profile/ShuaiLi.jpg"
   link="members/JinhoLee.html"
   flip=true
   style="bare"
